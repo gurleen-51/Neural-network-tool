@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 streamlit
 numpy
 pandas
@@ -7,3 +8,13 @@ seaborn
 core.network
 
 
+=======
+streamlit
+numpy
+pandas
+matplotlib
+networkx
+seaborn
+
+
+>>>>>>> c69708e34a9daad6b65843131f237ad3f3f92665
